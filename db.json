@@ -21,56 +21,56 @@
       "name": "Cuatro quesos",
       "ingredients": "Queso mozzarella, queso crema, queso cheddar y queso parmesano",
       "price": 8.20,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "https://www.bofrost.es/writable/products/images-v2/01774.jpg"
     },
     {
       "id": 3,
       "name": "Pepperoni",
       "ingredients": "Carne de cerdo y pimiento",
       "price": 7.15,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "https://images.hola.com/imagenes/cocina/recetas/20220208204252/pizza-pepperoni-mozzarella/1-48-890/pepperoni-pizza-abob-t.jpg"
     },
     {
       "id": 4,
       "name": "Con champiñones",
       "ingredients": "Cebolla, pollo y champiñones",
       "price": 7.90,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "https://unareceta.com/wp-content/uploads/2014/05/pizza-de-champin%CC%83ones.jpg"
     },
     {
       "id": 5,
       "name": "Hawaiana",
       "ingredients": "Trozitos de jamón y queso mozzarella",
       "price": 8.45,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "https://napolicartagena.com/wp-content/uploads/2022/01/La-Pizza-Hawaiana-de-Canada.jpg"
     },
     {
       "id": 6,
       "name": "Marinara",
       "ingredients": "Salsa marinera y orégano",
       "price": 7.25,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "https://tupizzaiolo.com/wp-content/uploads/2021/12/d437c913df5349a9adce597d1924f310-min.jpg"
     },
     {
       "id": 7,
       "name": "Napolitana",
       "ingredients": "Queso, anchoas, alcaparras y ajo",
       "price": 8.50,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg"
     },
     {
       "id": 8,
       "name": "Nneoyorquina",
       "ingredients": "Queso, verdura y jamón",
       "price": 7.90,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "http://www.restaurantcentrevila.com/wp-content/uploads/2018/08/pizza.jpg"
     },
     {
       "id": 9,
       "name": "Fugazza ",
       "ingredients": "Cebello, aceitunas y queso",
       "price": 7.60,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "image": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover/fugaz_9AZICtTMHNiBKq3vVgj6Qz4hD1F0c2.png"
     },
     {
       "id": 10,
