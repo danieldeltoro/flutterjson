@@ -79,6 +79,39 @@
       "price": 7.75,
       "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
     }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Coca-Cola",
+      "price": 1.80,
+      "image": "https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43c0de.png"
+    },
+    {
+      "id": 2,
+      "name": "Nestea",
+      "price": 1.90,
+      "image": "https://www.katsumi.cat/wp-content/uploads/2020/10/nestea-71.png"
+    },
+    {
+      "id": 3,
+      "name": "Aquarius",
+      "price": 1.90,
+      "image": "https://sportavern.com/wp-content/uploads/productosImgs2Fbebida-aquarius-limon-33cl.png"
+    },
+    {
+      "id": 4,
+      "name": "Coca-Cola Zero",
+      "price": 1.80,
+      "image": "https://sapporost.com/wp-content/uploads/2022/05/bebidas-coca-cola-zero.png"
+    },
+    {
+      "id": 5,
+      "name": "Agua",
+      "ingredients": "Trozitos de jamón y queso mozzarella",
+      "price": 1.50,
+      "image": "https://ekonomator.com/wp_17/wp-content/uploads/2017/09/bezoya-img-botella-lat.png"
+    },
   ]
  
 }
