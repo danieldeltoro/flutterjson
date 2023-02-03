@@ -1,72 +1,11 @@
-[
+{
+  "posts": [
     {
       "id": 1,
-      "name": "Margarita",
-      "ingredients": "Tomate y orégano",
-      "price": 79,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 2,
-      "name": "Cuatro quesos",
-      "ingredients": "Queso mozzarella, queso crema, queso cheddar y queso parmesano",
-      "price": 79,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 3,
-      "name": "Pepperoni",
-      "ingredients": "Carne de cerdo y pimiento",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 4,
-      "name": "Con champiñones",
-      "ingredients": "Cebolla, pollo y champiñones",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 5,
-      "name": "Hawaiana",
-      "ingredients": "Trozitos de jamón y queso mozzarella",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 6,
-      "name": "Marinara",
-      "ingredients": "Salsa marinera y orégano",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 7,
-      "name": "Napolitana",
-      "ingredients": "Queso, anchoas, alcaparras y ajo",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 8,
-      "name": "Nneoyorquina",
-      "ingredients": "Queso, verdura y jamón",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 9,
-      "name": "Fugazza ",
-      "ingredients": "Cebello, aceitunas y queso",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-    },
-    {
-      "id": 10,
-      "name": "Prosciutto",
-      "ingredients": "Jamón y queso",
-      "price": 89,
-      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
