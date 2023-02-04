@@ -112,7 +112,80 @@
       "price": 1.50,
       "image": "https://ekonomator.com/wp_17/wp-content/uploads/2017/09/bezoya-img-botella-lat.png"
     }
+  ],
+  "desserts": 
+  [
+    {
+      "id": 1,
+      "name": "Tiramisú",
+      "description": "¿Quién puede resistirse a la jugosidad y delicadeza de este emblemático bocado italiano?",
+      "price": 4.50,
+      "image": "https://imag.bonviveur.com/interior-del-tiramisu_1000.webp"
+    },
+    {
+      "id": 2,
+      "name": "Tarta Pavlova",
+      "description": "¿El secreto de su éxito? El perfecto equilibrio de sabores y texturas que ofrece en cada bocado.",
+      "price": 6.10,
+      "image": "https://imag.bonviveur.com/coulant-de-chocolate-por-dentro_1000.webp"
+    },
+    {
+      "id": 3,
+      "name": "Apple Pie",
+      "description": "Este pastel de manzana es el más famoso de América.",
+      "price": 5.00,
+      "image": "https://imag.bonviveur.com/vista-cenital-del-apple-pie_1000.webp"
+    },
+    {
+      "id": 4,
+      "name": "Panettone",
+      "description": "El panettone, el dulce estrella de las navidades italianas",
+      "price": 6.00,
+      "image": "https://imag.bonviveur.com/bodegon-de-panettone_1000.webp"
+    },
+    {
+      "id": 5,
+      "name": "Crema catalana",
+      "description": "Uno de los postres más famosos, allá donde vayas, por toda la geografía española.",
+      "price": 5.20,
+      "image": "https://imag.bonviveur.com/crema-catalana-casera-en-el-plato_1000.webp"
+    },
+    {
+      "id": 6,
+      "name": "Alfajores de maicena",
+      "description": "La imagen lo dice todo, es un postre delicado, dulce y contundente al mismo tiempo",
+      "price": 4.50,
+      "image": "https://imag.bonviveur.com/alfajores-de-maicena_1000.webp"
+    },
+    {
+      "id": 7,
+      "name": "Tarta tatin de manzana",
+      "description": "¿Quién puede resistirse a un croissant recién horneado?",
+      "price": 3.50,
+      "image": "https://imag.bonviveur.com/tarta-tatin-de-manzana-de-las-hermanas-tatin_1000.webp"
+    },
+    {
+      "id": 8,
+      "name": "Cruasanes",
+      "description": "Queso, verdura y jamón",
+      "price": 7.90,
+      "image": "https://imag.bonviveur.com/cruasanes-listos-para-el-desayuno_1000.webp"
+    },
+    {
+      "id": 9,
+      "name": "Tarta Sacher",
+      "description": "Cuando un postre lleva chocolate en todas sus elaboraciones, el éxito está garantizado.",
+      "price": 4.60,
+      "image": "https://imag.bonviveur.com/presentacion-final-de-la-tarta-sacher_1000.webp"
+    },
+    {
+      "id": 10,
+      "name": "Mochis",
+      "description": "El dulce japonés de moda",
+      "price": 4.20,
+      "image": "https://imag.bonviveur.com/mochi-japones_1000.webp"
+    }
   ]
- 
+
  
 }
