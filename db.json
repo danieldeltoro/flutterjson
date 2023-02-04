@@ -138,21 +138,21 @@
     {
       "id": 4,
       "name": "Panettone",
-      "description": "El panettone, el dulce estrella de las navidades italianas",
+      "description": "El panettone, el dulce estrella de las navidades italianas.",
       "price": 6.00,
       "image": "https://imag.bonviveur.com/bodegon-de-panettone_1000.webp"
     },
     {
       "id": 5,
       "name": "Crema catalana",
-      "description": "Un postre muy rico",
+      "description": "Un postre muy rico.",
       "price": 5.20,
       "image": "https://imag.bonviveur.com/crema-catalana-casera-en-el-plato_1000.webp"
     },
     {
       "id": 6,
       "name": "Alfajores de maicena",
-      "description": "Es un postre delicado, dulce y contundente al mismo tiempo",
+      "description": "Es un postre delicado, dulce y contundente al mismo tiempo.",
       "price": 4.50,
       "image": "https://imag.bonviveur.com/alfajores-de-maicena_1000.webp"
     },
@@ -166,7 +166,7 @@
     {
       "id": 8,
       "name": "Cruasanes",
-      "description": "Queso, verdura y jamón",
+      "description": "Queso, verdura y jamón.",
       "price": 7.90,
       "image": "https://imag.bonviveur.com/cruasanes-listos-para-el-desayuno_1000.webp"
     },
