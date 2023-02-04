@@ -90,27 +90,57 @@
     },
     {
       "id": 2,
-      "name": "Nestea",
-      "price": 1.90,
-      "image": "https://www.katsumi.cat/wp-content/uploads/2020/10/nestea-71.png"
-    },
-    {
-      "id": 3,
-      "name": "Aquarius",
-      "price": 1.90,
-      "image": "https://sportavern.com/wp-content/uploads/productosImgs2Fbebida-aquarius-limon-33cl.png"
-    },
-    {
-      "id": 4,
       "name": "Coca-Cola Zero",
       "price": 1.80,
       "image": "https://sapporost.com/wp-content/uploads/2022/05/bebidas-coca-cola-zero.png"
     },
     {
+      "id": 3,
+      "name": "Nestea",
+      "price": 1.90,
+      "image": "https://www.katsumi.cat/wp-content/uploads/2020/10/nestea-71.png"
+    },
+    {
+      "id": 4,
+      "name": "Aquarius",
+      "price": 1.90,
+      "image": "https://sportavern.com/wp-content/uploads/productosImgs2Fbebida-aquarius-limon-33cl.png"
+    },
+    {
       "id": 5,
-      "name": "Agua",
+      "name": "Fanta de naranja",
+      "price": 1.80,
+      "image": "https://atracon.es/wp-content/uploads/2020/10/ccep_libreria-digital_fanta-naranja-botella-500ml_vaso_azul-550x370.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fanta de limón",
+      "price": 1.80,
+      "image": "https://atracon.es/wp-content/uploads/2020/10/ccep_libreria-digital_fanta-limon-botella-500ml_vaso_azul.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Vino",
+      "price": 2.10,
+      "image": "https://static1.larioja.com/lomejordelvinoderioja/multimedia/201803/21/media/cortadas/GF2CD661-kw0F-U501353995951QZ-624x385@La%20Rioja.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Zumo de naranja",
       "price": 1.50,
-      "image": "https://ekonomator.com/wp_17/wp-content/uploads/2017/09/bezoya-img-botella-lat.png"
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/09/09/5f58b6eb18b1f.r_d.607-447-0.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Té verde",
+      "price": 2.70,
+      "image": "https://www.seguroscatalanaoccidente.com/content/published/api/v1.1/assets/CONT4820616D4F8A4B03840282F98C0A82BD/Large?cb=_cache_23e1&channelToken=219555cd30b54b3bbf0d0d28addf8e10&format=webp"
+    },
+    {
+      "id": 10,
+      "name": "Te rojo",
+      "price": 2.70,
+      "image": "https://images.hola.com/imagenes/estar-bien/20200831174392/dieta-adelgazar-te-rojo/0-860-132/te-rojo-adelgazar-t.jpg"
     }
   ],
     "desserts": [
