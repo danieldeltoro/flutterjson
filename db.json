@@ -1,4 +1,15 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+},
+{
   "pizzas": [
     {
       "id": 1,
