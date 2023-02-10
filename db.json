@@ -62,7 +62,7 @@
     {
       "id": 8,
       "name": "Neoyorquina",
-      "ingredients": "Queso, verdura y jamón",
+      "ingredients": "Queso, verdura y jamón.",
       "price": 7.90,
       "image": "http://www.restaurantcentrevila.com/wp-content/uploads/2018/08/pizza.jpg"
     },
@@ -79,6 +79,79 @@
       "ingredients": "Jamón y queso.",
       "price": 7.75,
       "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+    }
+  ],
+  "pasta": 
+  [
+    {
+      "id": 1,
+      "name": "Fetuccini alla puttanesca",
+      "ingredients": "Ajo, tomate, guindillas secas, aceite de oliva virgen y anchoas en salmuera.",
+      "price": 6.50,
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Fetuccini alla puttanesca",
+      "ingredients": "Albahaca, ajo y aceite de oliva extra.",
+      "price": 8.20,
+      "image": "https://www.bofrost.es/writable/products/images-v2/01774.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pansotti alla Genovese",
+      "ingredients": "Relleno de verduras.",
+      "price": 7.15,
+      "image": "https://media.traveler.es/photos/63563e5d1f786487c7bc19a9/master/w_960,c_limit/JRDF9X.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Spaguetti al ragù",
+      "ingredients": "Sin tomate con carne cocía en vino blanco y leche.",
+      "price": 7.80,
+      "image": "https://media.traveler.es/photos/63563efb85274c7bfebe973d/master/w_640,c_limit/iStock-1222207390.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vermicelli con le vongole",
+      "ingredients": "Con almejas, perfecto para acompañar con un buen vino blanco de la región.",
+      "price": 7.60,
+      "image": "https://media.traveler.es/photos/63563f7e53805dbdd51dd12b/master/w_640,c_limit/BT9MEJ.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pappardelle sulla lepre",
+      "ingredients": "Salsa liebre y cocido con vino Chianti.",
+      "price": 7.25,
+      "image": "https://media.traveler.es/photos/63563ff053805dbdd51dd12d/master/w_640,c_limit/RR0J7X.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Penne rigate all'arrabbiata",
+      "ingredients": "Tomate, ajo chile rojo o cayena y aceite de oliva.",
+      "price": 7.50,
+      "image": "https://media.traveler.es/photos/6356425453805dbdd51dd131/master/w_640,c_limit/WT9RF5.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bucatini all'amatriciana",
+      "ingredients": "Salsa especial de tomate, queso de oveja y panceta.",
+      "price": 6.95,
+      "image": "https://media.traveler.es/photos/635640fc53805dbdd51dd12f/master/w_640,c_limit/iStock-1363588040.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tortelli di zucca",
+      "ingredients": "Rellenos de calabaza hervida, amaretti, mostaza, queso parmesano y nuez moscada.",
+      "price": 8.70,
+      "image": "https://media.traveler.es/photos/6356416e93bb785c9cec6bbe/master/w_640,c_limit/D79K0T.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Spaguetii carbonara",
+      "ingredients": "Huevos, queso permesano, aceite de oliva, guanciale y pimienta negra.",
+      "price": 6.80,
+      "image": "https://media.traveler.es/photos/635641fa93bb785c9cec6bc0/master/w_960,c_limit/iStock-479271670.jpg"
     }
   ],
       "drinks": [
