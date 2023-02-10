@@ -149,14 +149,14 @@
       "name": "Fetuccini puttanesca",
       "ingredients": "Ajo, tomate, guindillas secas, aceite de oliva virgen y anchoas en salmuera.",
       "price": 6.5,
-      "image": ""
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pasta_Puttanesca.jpg/800px-Pasta_Puttanesca.jpg"
     },
     {
       "id": 2,
       "name": "Trenette al pesto",
       "ingredients": "Albahaca, ajo y aceite de oliva extra.",
       "price": 8.2,
-      "image": "https://www.bofrost.es/writable/products/images-v2/01774.jpg"
+      "image": "https://sixhungryfeet.com/wp-content/uploads/2022/10/Trenette-al-Pesto-6.jpg"
     },
     {
       "id": 3,
@@ -175,7 +175,7 @@
     {
       "id": 5,
       "name": "Vermicelli vongole",
-      "ingredients": "Con almejas, perfecto para acompañar con un buen vino blanco de la región.",
+      "ingredients": "Con almejas, perfecto para acompañar con un buen vino blanco.",
       "price": 7.6,
       "image": "https://media.traveler.es/photos/63563f7e53805dbdd51dd12b/master/w_640,c_limit/BT9MEJ.jpg"
     },
