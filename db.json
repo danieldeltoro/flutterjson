@@ -46,6 +46,15 @@
         "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
       }
     ],
+    "lasagne": [
+    {
+      "id": 1,
+      "name": "Lasaña boloñesa",
+      "ingredients": "Todo un clásico.",
+      "price": 6.5,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/25/5e9983cfae42e.jpeg"
+    }
+     ],
     "pastas": [
       {
         "id": 1,
