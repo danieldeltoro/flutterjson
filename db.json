@@ -96,7 +96,7 @@
     {
       "id": 1,
       "name": "Fetuccini puttanesca",
-      "ingredients": "Ajo, tomate, guindillas secas, aceite de oliva virgen y anchoas en salmuera.",
+      "ingredients": "Ajo, tomate, guindillas, aceite oliva y anchoas salmuera.",
       "price": 6.5,
       "image": ""
     },
@@ -117,7 +117,7 @@
     {
       "id": 5,
       "name": "Vermicelli vongole",
-      "ingredients": "Con almejas, perfecto para acompañar con un buen vino blanco de la región.",
+      "ingredients": "Con almejas, perfecto para un buen vino blanco de la región.",
       "price": 7.6,
       "image": "https://media.traveler.es/photos/63563f7e53805dbdd51dd12b/master/w_640,c_limit/BT9MEJ.jpg"
     },
