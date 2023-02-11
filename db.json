@@ -43,6 +43,43 @@
       "ingredients": "Berenjenas, salsa de tomate,mozzarella y pasta.",
       "price": 7.45,
       "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/18/5e9981f8a47c0.jpeg"
+    }
+   ],
+   "pizzas": [
+    {
+      "id": 1,
+      "name": "Margarita",
+      "ingredients": "Tomate y orégano.",
+      "price": 7.5,
+      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+    },
+    {
+      "id": 2,
+      "name": "Cuatro quesos",
+      "ingredients": "Queso mozzarella, crema, cheddar y parmesano.",
+      "price": 8.2,
+      "image": "https://www.bofrost.es/writable/products/images-v2/01774.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pepperoni",
+      "ingredients": "Carne de cerdo y pimiento.",
+      "price": 7.15,
+      "image": "https://images.hola.com/imagenes/cocina/recetas/20220208204252/pizza-pepperoni-mozzarella/1-48-890/pepperoni-pizza-abob-t.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Con champiñones",
+      "ingredients": "Cebolla, pollo y champiñones.",
+      "price": 7.9,
+      "image": "https://unareceta.com/wp-content/uploads/2014/05/pizza-de-champin%CC%83ones.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hawaiana",
+      "ingredients": "Trozitos de jamón y queso mozzarella.",
+      "price": 8.45,
+      "image": "https://napolicartagena.com/wp-content/uploads/2022/01/La-Pizza-Hawaiana-de-Canada.jpg"
     },
     {
       "id": 6,
@@ -79,7 +116,8 @@
       "price": 7.75,
       "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
     }
-  ],
+   ],
+
   "drinks": [
     {
       "id": 1,
